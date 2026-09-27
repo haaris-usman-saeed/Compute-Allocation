@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vercel/
+grids.json
+*.png
+.DS_Store
